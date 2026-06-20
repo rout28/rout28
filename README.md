@@ -17,6 +17,15 @@ Passionate Full Stack Developer with hands-on experience building real-world web
 
 ---
 
+## Skills
+
+![React](https://img.shields.io/badge/React-JS-blue)
+![Node](https://img.shields.io/badge/Node-JS-green)
+![MongoDB](https://img.shields.io/badge/MongoDB-green)
+![Express](https://img.shields.io/badge/Express-JS-lightgrey)
+
+---
+
 ## 🛠 Tech Stack
 
 ### Frontend
