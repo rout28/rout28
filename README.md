@@ -111,9 +111,9 @@ Multi-role platform with Admin, Retailer and Wholesaler Panels.
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rout28&show_icons=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=rout28&show_icons=true&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rout28&layout=compact)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rout28&layout=compact&theme=dark)
 
 ---
 
